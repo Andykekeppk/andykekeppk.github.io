@@ -1,0 +1,30 @@
+#link
+{
+    text-align: right;
+}
+
+
+
+form{
+    width: 100%;
+   
+    text-align: center;
+    
+}
+
+img{
+    text-align: center;
+    margin-top:200px;
+    margin-bottom:20px;
+}
+
+.box
+{
+    border-radius: 25px 25px 25px 25px;
+    width: 500px;
+    height:30px;
+    padding: 5px;
+
+}
+
+
